@@ -1,0 +1,24 @@
+{
+  "name": "ldapp-listener",
+  "version": "0.1.0",
+  "description": "Configures and starts the listener",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bergos/ldapp-listener.git"
+  },
+  "keywords": [
+    "ldapp"
+  ],
+  "author": "Thomas Bergwinkl <bergi@axolotlfarm.org> (https://www.bergnet.org/people/bergi/card#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bergos/ldapp-listener/issues"
+  },
+  "homepage": "https://github.com/bergos/ldapp-listener",
+  "dependencies": {},
+  "devDependencies": {}
+}
